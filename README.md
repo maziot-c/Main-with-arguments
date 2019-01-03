@@ -17,3 +17,8 @@
     argv[5] = e
     argv[6] = f
     argv[7] = g
+
+    user@ubuntu:~/work/c-study/Main-with-arguments$ ./app "this is the string"
+    argc = 2
+    argv[0] = ./app
+    argv[1] = this is the string
